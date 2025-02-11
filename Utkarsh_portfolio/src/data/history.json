@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "SADHISHTHA DEVELOPERS",
+    "startDate": "July, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Created the MarketOmobile e-commerce mobile app's frontend using React, which connected several stores and provided a smooth user experience including all core features."
+    ],
+    "imageSrc": "history/sadhistha.png"
+  },
+  {
+    "role": "Technical Head",
+    "organisation": "National Service Scheme",
+    "startDate": "August, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Technical Head at Chitkara University. Lead and manage the technical operations for NSS activities and events. Organize and manage online volunteer registrations, leveraging digital tools like Google Forms, Excel-Sheet and making Poster for Events. Coordinate and oversee the technical setup for events."
+    ],
+    "imageSrc": "history/nss.png"
+  },
+  {
+    "role": "Project Intern",
+    "organisation": "Infosys Springboard Internship 5.0 ",
+    "startDate": "November, 2024",
+    "endDate": "present",
+    "experiences": [
+      " Contributed to an 8-week Angular-based project divided into 4 sprints, developing a course module with features like creating and editing courses. Served as Scrum Master in Sprint 1, managing user stories, Led daily stand-ups meetingsand updates. In Sprint 2, tested UI and back-end features, reporting bugs for quick fixes. In Sprints 3 and 4, developed interactive UI components and robust back-end functionality."
+    ],
+    "imageSrc": "history/infosys.png"
+  }
+]

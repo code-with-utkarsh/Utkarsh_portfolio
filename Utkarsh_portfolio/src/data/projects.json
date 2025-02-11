@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather For-casting app",
+    "imageSrc": "projects/project.png",
+    "description": "Integrated the Open Weather API to fetch and display current weather data, including temperature, wind speed, and weather conditions",
+    "skills": ["HTML", "CSS", "JavaScript", "Open Weather API"],
+    "demo": "https://code-with-utkarsh.github.io/weather/",
+    "source": "https://github.com/code-with-utkarsh/weather"
+  },
+  {
+    "title": "Text Summarizer APP",
+    "imageSrc": "projects/project.png",
+    "description": "Built a web application that summarizes long texts into concise, meaningful summaries.",
+    "skills": ["HTML", "CSS", "JavaScript", "Text Summarization API"],
+    "demo": "https://summarizer-ggn4.onrender.com/",
+    "source": "https://github.com/code-with-utkarsh/summarizer"
+  },
+  {
+    "title": "EZkart",
+    "imageSrc": "projects/Ezkart.png",
+    "description": "Developed a fully functional eCommerce using the Mern Stack, providing users with seamless online shopping experience. implement payment gateway integration and order tracking functionality",
+    "skills": ["Mern", "Full-Stack"],
+    "demo": "https://ezkaart.vercel.app/",
+    "source": "https://github.com/code-with-utkarsh/EZkart"
+  }
+]
